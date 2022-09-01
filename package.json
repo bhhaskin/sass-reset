@@ -4,5 +4,6 @@
   "description": "Eric Meyer's Reset CSS, but in SASS",
   "repository": "git@github.com:bhhaskin/sass-reset.git",
   "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "./sass/sass-reset"
 }
