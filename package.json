@@ -1,6 +1,6 @@
 {
   "name": "@bhhaskin/sass-reset",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Eric Meyer's Reset CSS, but in SASS",
   "repository": "git@github.com:bhhaskin/sass-reset.git",
   "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
